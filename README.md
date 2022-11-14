@@ -18,5 +18,3 @@
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syfferdinand&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="syfferdinand" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syfferdinand&" alt="syfferdinand" /></p>
